@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>CFBundleDisplayName</key>
-	<string>ProjectPretzel.iOS</string>
+	<string>Pretzel</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.alphio.ProjectPretzel.iOS</string>
+	<string>85A9758DBE.com.alphio.ProjectPretzel.iOS</string>
 	<key>CFBundleShortVersionString</key>
 	<string>1.0</string>
 	<key>CFBundleVersion</key>
