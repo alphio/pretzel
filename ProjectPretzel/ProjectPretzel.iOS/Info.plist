@@ -5,7 +5,7 @@
 	<key>CFBundleDisplayName</key>
 	<string>Pretzel</string>
 	<key>CFBundleIdentifier</key>
-	<string>85A9758DBE.com.alphio.ProjectPretzel.iOS</string>
+	<string>com.alphio.ProjectPretzel.iOS</string>
 	<key>CFBundleShortVersionString</key>
 	<string>1.0</string>
 	<key>CFBundleVersion</key>

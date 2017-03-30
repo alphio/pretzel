@@ -18,7 +18,7 @@ namespace ProjectPretzel.iOS
 			// Perform any additional setup after loading the view, typically from a nib.
 			Button.AccessibilityIdentifier = "myButton";
 			Button.TouchUpInside += delegate {
-				var title = string.Format ("The Fun Starts Here!", count++);
+				var title = string.Format ("Let's build this thing already!", count++);
 				Button.SetTitle (title, UIControlState.Normal);
 			};
 		}
