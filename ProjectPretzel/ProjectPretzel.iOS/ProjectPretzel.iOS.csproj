@@ -34,9 +34,9 @@
     <CodesignEntitlements>Entitlements.plist</CodesignEntitlements>
     <MtouchArch>ARMv7, ARM64</MtouchArch>
     <ConsolePause>false</ConsolePause>
-    <CodesignKey>iPhone Developer: Noah HAMBAYI (2ZWD7DX93F)</CodesignKey>
+    <CodesignKey>iPhone Distribution: Noah HAMBAYI (85A9758DBE)</CodesignKey>
     <MtouchDebug>False</MtouchDebug>
-    <CodesignProvision>9e04c653-0ae2-41c6-abed-6069d34a9a16</CodesignProvision>
+    <CodesignProvision>d791dead-1874-47ff-bcfe-70c2fa4b7886</CodesignProvision>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|iPhoneSimulator' ">
     <DebugType>full</DebugType>
