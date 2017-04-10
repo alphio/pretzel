@@ -60,9 +60,11 @@
     <MtouchArch>ARMv7, ARM64</MtouchArch>
     <CodesignEntitlements>Entitlements.plist</CodesignEntitlements>
     <MtouchProfiling>true</MtouchProfiling>
-    <CodesignKey>iPhone Distribution: Noah HAMBAYI (85A9758DBE)</CodesignKey>
-    <MtouchDebug>true</MtouchDebug>
-    <CodesignProvision>d791dead-1874-47ff-bcfe-70c2fa4b7886</CodesignProvision>
+    <CodesignKey>iPhone Developer: Noah HAMBAYI (2ZWD7DX93F)</CodesignKey>
+    <MtouchDebug>True</MtouchDebug>
+    <CodesignProvision>9e04c653-0ae2-41c6-abed-6069d34a9a16</CodesignProvision>
+    <IOSDebugOverWiFi>False</IOSDebugOverWiFi>
+    <IOSDebuggerPort>10000</IOSDebuggerPort>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
